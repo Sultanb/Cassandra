@@ -1,0 +1,2 @@
+# Cassandra
+NoSQL cluster
